@@ -1,4 +1,4 @@
 # Responsive
 Author: Ahsan Paracha
 <br>
-Responsive using Grid
+Responsive using Grid <br> GIAIC Project
